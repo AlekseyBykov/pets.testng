@@ -1,0 +1,7 @@
+<suite name="Single Test" verbose="1">
+    <test name="Single Test">
+        <classes>
+            <class name="com.alekseybykov.examples.testng.single.SingleTest"/>
+        </classes>
+    </test>
+</suite>
