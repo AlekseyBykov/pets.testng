@@ -13,6 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <testng.version>6.3.1</testng.version>
+        <compiler.plugin.version>3.8.1</compiler.plugin.version>
         <surefire.version>2.21.0</surefire.version>
         <testng.verbose>0</testng.verbose>
     </properties>
@@ -35,7 +36,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version>
+                <version>${compiler.plugin.version}</version>
                 <configuration>
                     <source>${java.version}</source>
                     <target>${java.version}</target>
