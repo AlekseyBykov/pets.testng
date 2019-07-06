@@ -1,0 +1,12 @@
+<suite name="Suite of tests" verbose="1">
+    <test name="FirstMultipleTest">
+        <classes>
+            <class name="com.alekseybykov.examples.testng.multiple.FirstMultipleTest"/>
+        </classes>
+    </test>
+    <test name="SecondMultipleTest">
+        <classes>
+            <class name="com.alekseybykov.examples.testng.multiple.SecondMultipleTest"/>
+        </classes>
+    </test>
+</suite>
