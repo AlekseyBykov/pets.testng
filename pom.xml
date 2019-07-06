@@ -14,7 +14,7 @@
         <java.version>1.8</java.version>
         <testng.version>6.3.1</testng.version>
         <surefire.version>2.21.0</surefire.version>
-        <testng.verbose>10</testng.verbose>
+        <testng.verbose>0</testng.verbose>
     </properties>
 
     <name>testng</name>
@@ -57,6 +57,7 @@
                     <suiteXmlFiles>
                         <suiteXmlFile>${project.basedir}/src/test/resources/single-testng.xml</suiteXmlFile>
                         <suiteXmlFile>${project.basedir}/src/test/resources/multiple-testng.xml</suiteXmlFile>
+                        <suiteXmlFile>${project.basedir}/src/test/resources/selective-testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
