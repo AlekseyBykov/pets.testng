@@ -1,5 +1,5 @@
 <suite name="Single test" verbose="1">
-    <test name="SingleTest">
+    <test name="Single test">
         <classes>
             <class name="com.alekseybykov.examples.testng.single.SingleTest"/>
         </classes>

@@ -1,4 +1,4 @@
-<suite name="Suite of tests" verbose="1">
+<suite name="Multiple tests suite" verbose="1">
     <test name="FirstMultipleTest">
         <classes>
             <class name="com.alekseybykov.examples.testng.multiple.FirstMultipleTest"/>

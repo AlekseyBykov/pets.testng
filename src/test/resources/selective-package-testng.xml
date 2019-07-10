@@ -1,0 +1,8 @@
+<suite name="Selective by package suite" verbose="1">
+    <test name="Selective by package tests">
+        <packages>
+            <package name="com.alekseybykov.examples.testng.selective.first.*"/>
+            <package name="com.alekseybykov.examples.testng.selective.third.*"/>
+        </packages>
+    </test>
+</suite>
