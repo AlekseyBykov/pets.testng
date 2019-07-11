@@ -60,6 +60,7 @@
                         <suiteXmlFile>${project.basedir}/src/test/resources/multiple-testng.xml</suiteXmlFile>
                         <suiteXmlFile>${project.basedir}/src/test/resources/selective-class-testng.xml</suiteXmlFile>
                         <suiteXmlFile>${project.basedir}/src/test/resources/selective-package-testng.xml</suiteXmlFile>
+                        <suiteXmlFile>${project.basedir}/src/test/resources/selective-package-include-testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

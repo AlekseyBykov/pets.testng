@@ -1,0 +1,9 @@
+<suite name="Selective suite of tests with package include" verbose="1">
+    <test name="Selective tests with package include">
+        <packages>
+            <package name="com.alekseybykov.examples.testng.*">
+                <include name="com.alekseybykov.examples.testng.selective.first"/>
+            </package>
+        </packages>
+    </test>
+</suite>

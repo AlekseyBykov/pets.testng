@@ -1,5 +1,5 @@
-<suite name="Selective class suite" verbose="1">
-    <test name="Selective class tests">
+<suite name="Selective suite of tests by class" verbose="1">
+    <test name="Selective tests by class">
         <classes>
             <class name="com.alekseybykov.examples.testng.selective.first.FirstTest"/>
             <class name="com.alekseybykov.examples.testng.selective.second.FirstTest"/>

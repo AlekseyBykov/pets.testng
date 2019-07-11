@@ -1,10 +1,10 @@
 <suite name="Multiple tests suite" verbose="1">
-    <test name="FirstMultipleTest">
+    <test name="First multiple test">
         <classes>
             <class name="com.alekseybykov.examples.testng.multiple.FirstMultipleTest"/>
         </classes>
     </test>
-    <test name="SecondMultipleTest">
+    <test name="Second multiple test">
         <classes>
             <class name="com.alekseybykov.examples.testng.multiple.SecondMultipleTest"/>
         </classes>
