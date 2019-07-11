@@ -2,8 +2,7 @@
     <test name="Selective tests by class">
         <classes>
             <class name="com.alekseybykov.examples.testng.selective.first.FirstTest"/>
-            <class name="com.alekseybykov.examples.testng.selective.second.FirstTest"/>
-            <class name="com.alekseybykov.examples.testng.selective.third.SecondTest"/>
+            <class name="com.alekseybykov.examples.testng.selective.second.SecondTest"/>
         </classes>
     </test>
 </suite>
