@@ -1,8 +1,8 @@
 <suite name="Selective suite of tests by class" verbose="1">
     <test name="Selective tests by class">
         <classes>
-            <class name="com.alekseybykov.examples.testng.selective.first.FirstTest"/>
-            <class name="com.alekseybykov.examples.testng.selective.second.SecondTest"/>
+            <class name="alekseybykov.portfolio.testng.selective.first.FirstTest"/>
+            <class name="alekseybykov.portfolio.testng.selective.second.SecondTest"/>
         </classes>
     </test>
 </suite>

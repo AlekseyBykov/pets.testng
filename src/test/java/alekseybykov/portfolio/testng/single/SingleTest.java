@@ -1,4 +1,4 @@
-package com.alekseybykov.examples.testng.selective.first;
+package alekseybykov.portfolio.testng.single;
 
 import org.testng.annotations.Test;
 
@@ -7,9 +7,9 @@ import org.testng.annotations.Test;
  * @version 1.0
  * @since   2019-07-06
  */
-public class FirstTest {
+public class SingleTest {
     @Test
     public void test() {
-        System.out.println("FirstTest");
+        System.out.println("SingleTest");
     }
 }

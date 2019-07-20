@@ -1,7 +1,7 @@
 <suite name="Single test" verbose="1">
     <test name="Single test">
         <classes>
-            <class name="com.alekseybykov.examples.testng.single.SingleTest"/>
+            <class name="alekseybykov.portfolio.testng.single.SingleTest"/>
         </classes>
     </test>
 </suite>

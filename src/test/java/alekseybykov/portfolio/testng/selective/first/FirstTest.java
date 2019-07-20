@@ -1,4 +1,4 @@
-package com.alekseybykov.examples.testng.multiple;
+package alekseybykov.portfolio.testng.selective.first;
 
 import org.testng.annotations.Test;
 
@@ -7,9 +7,9 @@ import org.testng.annotations.Test;
  * @version 1.0
  * @since   2019-07-06
  */
-public class FirstMultipleTest {
+public class FirstTest {
     @Test
     public void test() {
-        System.out.println("FirstMultipleTest");
+        System.out.println("FirstTest");
     }
 }

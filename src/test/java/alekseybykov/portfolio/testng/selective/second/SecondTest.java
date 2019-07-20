@@ -1,4 +1,4 @@
-package com.alekseybykov.examples.testng.selective.second;
+package alekseybykov.portfolio.testng.selective.second;
 
 import org.testng.annotations.Test;
 

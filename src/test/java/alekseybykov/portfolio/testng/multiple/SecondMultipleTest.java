@@ -1,4 +1,4 @@
-package com.alekseybykov.examples.testng.multiple;
+package alekseybykov.portfolio.testng.multiple;
 
 import org.testng.annotations.Test;
 
